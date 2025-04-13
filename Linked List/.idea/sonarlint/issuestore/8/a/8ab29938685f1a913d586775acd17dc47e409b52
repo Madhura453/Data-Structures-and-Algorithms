@@ -1,0 +1,21 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùöşÅıÿÿÿÿ8®†ƒŸ2J$db76d599-575a-4936-8ab3-29e31a25f6a4
+…
+java:S2259E"BA "NullPointerException" could be thrown; "temp" is nullable here.(¶Á¡ı8Ğ†ƒŸ2J$4f61975b-be08-44b6-96ca-f40fcd7e5129
+˜
+java:S11499"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8Ö†ƒŸ2J$03169889-b770-4348-a2ab-297c3e7745f5
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ä‘Ÿÿÿÿÿÿ8Û†ƒŸ2J$77f013ed-12f2-43ef-a8cc-e843ca866e38
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÍªÏ´øÿÿÿÿ8Û†ƒŸ2J$2f95e532-7a62-49b0-8aea-4e5c6fe548d4
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¼¦ŠÌıÿÿÿÿ8Û†ƒŸ2J$7e2580f7-434a-4e74-a0ae-99f3278c2260
+~	java:S125"<This block of commented-out lines of code should be removed.(®Òá8Û†ƒŸ2J$6446a24a-e1ff-40f4-9a85-0bfc583cf8c8
+m
+java:S1481h"*Remove this unused "index" local variable.(—šò8å†ƒŸ2J$f4169ed3-7195-4bce-8c09-dc0632713d71
+s	java:S106Ê"+Replace this use of System.out by a logger.(·üâ’üÿÿÿÿ8î†ƒŸ2J$a4c4f11c-e6d9-4749-b04e-a9bbe855cd15
+M
+java:S1144("0Remove this unused private "reverseList" method.(¹—÷ê8Ôª…Ÿ2
+y
+java:S1144M"1Remove this unused private "insertAtTail" method.(³£Øîıÿÿÿÿ8ğ†ƒŸ2J$b0c0df4e-cd81-4a09-88b0-d2405f02453d
+u
+java:S1144g"2Remove this unused private "insertByValue" method.(åÕ°¦8ğ†ƒŸ2J$e2fe5178-53fb-4258-aee0-2c1fc7dd86ef
+s
+java:S1144Œ"/Remove this unused private "insertNode" method.(…¶ÿœ8ğ†ƒŸ2J$dddd9bf5-dabe-4ef3-8380-fac848fee275

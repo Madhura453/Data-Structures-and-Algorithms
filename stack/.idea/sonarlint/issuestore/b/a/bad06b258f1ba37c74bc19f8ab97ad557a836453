@@ -1,0 +1,7 @@
+
+	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(“ÜÏ­ûÿÿÿÿ8Ùµ‹ĞŸ2J$86f106c5-3cb9-4a9c-826e-1426ee12a49d
+”
+java:S1104"QMake queue a static final constant or non-public and provide accessors if needed.(éË—8æª„ĞŸ2J$b64651eb-695b-425e-b4d4-5289790c59a8
+m	java:S106"+Replace this use of System.out by a logger.(ù›µô8–ÎĞŸ2J$0629859f-ec74-4709-a5e4-7abb12a6c34f
+m	java:S106>"+Replace this use of System.out by a logger.(É°Ï—8—ÎĞŸ2J$56e36d89-418d-4fcd-8823-7041c991cc35
+r	java:S106C"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8¬êĞŸ2J$241b141b-f4d4-46c9-89c2-950f29edafbf

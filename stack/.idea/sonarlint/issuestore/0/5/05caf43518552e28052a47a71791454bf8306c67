@@ -1,0 +1,14 @@
+
+—
+java:S1104!"OMake top a static final constant or non-public and provide accessors if needed.(èÌ¯Ûøÿÿÿÿ8îÔÄÌŸ2J$049f694f-553d-4b2f-ba01-b1042fd87906
+˜
+java:S1104#"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ8ïÔÄÌŸ2J$b46ffcd1-c836-4117-a22c-52220b566128
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓüÂÛ8ğÔÄÌŸ2J$5b5ea289-d5ac-4763-af0b-3f1651e2e097
+m	java:S106"+Replace this use of System.out by a logger.(ù›µô8ûÔÄÌŸ2J$8848a62e-5431-4398-b639-36bf74fa528c
+“
+java:S1845b"KRename method "top" to prevent any misunderstanding/clash with field "top".(æ§Ğƒÿÿÿÿÿ8ıÔÄÌŸ2J$7c0ee45d-1f08-42ba-8f4f-f83cf120b5a9
+r	java:S1065"+Replace this use of System.out by a logger.(–ç¹“øÿÿÿÿ8ÿÔÄÌŸ2J$98258b52-cc49-481d-b05d-77e20f526fa4
+}	java:S125;"<This block of commented-out lines of code should be removed.(ºñ¥58¢§üÌŸ2J$b1b15621-2575-431c-b102-204dd5b29556
+ƒ	java:S125="<This block of commented-out lines of code should be removed.(‰Œşÿÿÿÿ8ïùûÌŸ2J$c1b734a6-d35d-40ba-b1fb-89eb90816a07
+r	java:S106W"+Replace this use of System.out by a logger.(ÌÁ¶ßúÿÿÿÿ8€ÕÄÌŸ2J$f8f13934-d6ce-4489-a128-b75327f09d37
+r	java:S106]"+Replace this use of System.out by a logger.(·üâ’üÿÿÿÿ8ÕÄÌŸ2J$6dc10a63-0390-4bc6-b7aa-0747c5f3a337

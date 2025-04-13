@@ -1,0 +1,10 @@
+
+r
+java:S1066"/Merge this if statement with the enclosing one.(­ÚóÍ8¹æ„Ÿ«2J$aac64ffd-29ba-4162-8c5e-677dcc6b6990
+¦
+java:S1319	"cThe type of "adj" should be an interface such as "List" rather than the implementation "ArrayList".(óš½8¦‘…Ÿ«2J$9b8c5909-3329-4d58-aac6-95f858bc3514
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¾ê«J$180e5ded-298b-4d82-9c32-26ab128e3e5f
+o
+java:S1125"'Remove the unnecessary boolean literal.(²ïÿìÿÿÿÿÿ8Äæ„Ÿ«2J$251e866e-7e79-4d60-9c05-9ec6660e38a9
+j
+java:S11250"'Remove the unnecessary boolean literal.(—¤‘8Çæ„Ÿ«2J$bd9c9641-e443-423f-9bfd-28a498b2e579

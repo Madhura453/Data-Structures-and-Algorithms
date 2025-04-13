@@ -1,0 +1,26 @@
+
+
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±J$bd3a6002-fdec-4f61-ade5-d71722058652
+g
+java:S1444"+Make this "public static count" field final(˜“ÿ±J$1d0aceea-5825-4c51-8c48-7f47869546b3
+q
+java:S1854"5Remove this useless assignment to local variable "a".(ãº’•J$2be4f79e-6147-4966-8839-2f78f5e2fdc9
+w	java:S125"<This block of commented-out lines of code should be removed.(ƒ”×²J$58218d00-3a8d-43cc-92c9-7a6145b615d5
+|	java:S125"<This block of commented-out lines of code should be removed.(¡ÖùğøÿÿÿÿJ$6f85438c-2799-4ed0-bd65-92be4079f336
+|	java:S125"<This block of commented-out lines of code should be removed.(õòÈşşÿÿÿÿJ$c2259ebe-09ff-4ebd-a1e0-4a905dddad88
+|	java:S125"<This block of commented-out lines of code should be removed.(……©ùÿÿÿÿJ$3691105e-7fa0-429f-a3fb-4e814e4d41f6
+v	java:S125"<This block of commented-out lines of code should be removed.(È†pJ$bedf1d04-0473-42fc-bdc8-63aa911d3d6d
+|	java:S125"<This block of commented-out lines of code should be removed.(óÂòôıÿÿÿÿJ$92bf433f-cc51-4a2e-b242-2880142b86d5
+|	java:S125"<This block of commented-out lines of code should be removed.(ó¿ºÛüÿÿÿÿJ$ee5ee8d1-de87-44f7-95c7-77045f10b0dc
+b
+java:S1481"&Remove this unused "a" local variable.(ãº’•J$5ba5ca63-c68a-4063-b026-cd55f7954423
+e	java:S106$"+Replace this use of System.out by a logger.(¾˜æJ$5982cd12-b9e2-4adf-b37f-48bc0a4262d1
+w	java:S125"<This block of commented-out lines of code should be removed.(Üò¥J$ef46cbcc-4555-4982-89c2-ce8a96c518e9
+v	java:S125!"<This block of commented-out lines of code should be removed.(±âŠ=J$9cf06b26-6b2c-47f0-92ae-aa72e3d892af
+w	java:S125#"<This block of commented-out lines of code should be removed.(ÉÒ±ãJ$3ba54ddf-ef5b-4d90-8584-2f2c2627fcf7
+l	java:S106˜"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿJ$e4363e56-354e-4b11-89dc-ae2db9139d7f
+g	java:S106£"+Replace this use of System.out by a logger.(†™ñ‹J$1f667606-8533-488d-8b1c-f05de7b4805a
+g	java:S106¬"+Replace this use of System.out by a logger.(†™ñ‹J$952cea83-a5bf-42c7-8711-dc443798a008
+l	java:S106¶"+Replace this use of System.out by a logger.(×“¶äıÿÿÿÿJ$8ff4a2ba-a4e2-49e1-ac09-8127b8df8ab1
+l	java:S106Ã"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿJ$3b4ab9c4-51b2-43fc-b687-fed134405223
+l	java:S106Ë"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿJ$f598767c-9856-41da-86d1-99b84b51dd26

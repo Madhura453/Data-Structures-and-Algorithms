@@ -1,0 +1,33 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "targetResult".(˜¿äÊ
+U
+java:S1854":Remove this useless assignment to local variable "result".(äù‚¬üÿÿÿÿ
+S
+java:S1854
+"8Remove this useless assignment to local variable "list".(¤Êí…ıÿÿÿÿ
+K
+java:S1854	"5Remove this useless assignment to local variable "a".(àáË³
+<
+java:S1481	"&Remove this unused "a" local variable.(àáË³
+D
+java:S1481
+")Remove this unused "list" local variable.(¤Êí…ıÿÿÿÿ
+F
+java:S1481"+Remove this unused "result" local variable.(äù‚¬üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ş»Ìò
+G
+java:S1481"1Remove this unused "targetResult" local variable.(˜¿äÊ
+Q	java:S125"<This block of commented-out lines of code should be removed.(×§£ú
+Q	java:S125"<This block of commented-out lines of code should be removed.(™¾à
+E	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(²ıâú
+B
+java:S1125^"'Remove the unnecessary boolean literal.(¹ÛİÛüÿÿÿÿ
+\
+java:S1126c"AReplace this if-then-else statement by a single return statement.(¹ÛİÛüÿÿÿÿ
+B
+java:S1125c"'Remove the unnecessary boolean literal.(¹ÛİÛüÿÿÿÿ
+V
+java:S1144"@Remove this unused private "generateSubSequencesReverse" method.(§¸Ær

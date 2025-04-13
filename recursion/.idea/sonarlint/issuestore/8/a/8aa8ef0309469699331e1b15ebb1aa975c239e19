@@ -1,0 +1,33 @@
+
+|
+java:S1854"@Remove this useless assignment to local variable "targetResult".(˜¿äÊJ$654d2223-3e6f-4f79-9ef6-fd76fc17cce4
+{
+java:S1854":Remove this useless assignment to local variable "result".(äù‚¬üÿÿÿÿJ$23ac024c-f8ad-4e58-8dfa-a08635fcd2cf
+y
+java:S1854
+"8Remove this useless assignment to local variable "list".(¤Êí…ýÿÿÿÿJ$14c99751-8cd9-48a8-ba74-692e8f270ddf
+q
+java:S1854	"5Remove this useless assignment to local variable "a".(àáË³J$2ca5f4b8-75bb-40ef-817f-d304c7080a51
+b
+java:S1481	"&Remove this unused "a" local variable.(àáË³J$596834b1-9e9c-4681-baf2-c5f85cd3577e
+j
+java:S1481
+")Remove this unused "list" local variable.(¤Êí…ýÿÿÿÿJ$e8bcb177-94fc-4aec-977c-73a50d807ae4
+l
+java:S1481"+Remove this unused "result" local variable.(äù‚¬üÿÿÿÿJ$a335254b-8d5d-477b-a35a-06797b8fe35f
+w	java:S125"<This block of commented-out lines of code should be removed.(þ»ÌòJ$5ce33c68-0777-4b6a-8523-8f54b11f92f8
+m
+java:S1481"1Remove this unused "targetResult" local variable.(˜¿äÊJ$5e3755a6-eb13-46d9-a606-e1c41024d69f
+w	java:S125"<This block of commented-out lines of code should be removed.(×§£úJ$ebb95182-fa89-4c15-9679-f41149fbeefa
+w	java:S125"<This block of commented-out lines of code should be removed.(™¾àJ$65b9474e-cc79-4f95-b87e-3d5cece03a12
+k	java:S106"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿJ$3c5a53b3-f7af-4689-9222-ec952a3dd00d
+f
+java:S1197"*Move the array designators [] to the type.(²ýâúJ$8146efde-daab-4207-a22d-4dbbcf424070
+h
+java:S1125^"'Remove the unnecessary boolean literal.(¹ÛÝÛüÿÿÿÿJ$2952b193-9e8f-45f0-af9d-ad6f368d1cc2
+‚
+java:S1126c"AReplace this if-then-else statement by a single return statement.(¹ÛÝÛüÿÿÿÿJ$139b5313-0069-45c7-85f9-1cada8eed058
+h
+java:S1125c"'Remove the unnecessary boolean literal.(¹ÛÝÛüÿÿÿÿJ$a7a5bf3e-31e9-4d3e-b7d7-558fc3abcb10
+|
+java:S1144"@Remove this unused private "generateSubSequencesReverse" method.(§¸ÆrJ$1ec610b4-f8db-43aa-bf3e-9ee573e6b380
