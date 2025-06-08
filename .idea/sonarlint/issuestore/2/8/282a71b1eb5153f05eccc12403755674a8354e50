@@ -1,0 +1,8 @@
+
+‘
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(ÅÖÔ´ùÿÿÿÿJ$9ab9255c-951f-4217-aadd-950f236e731a
+‘
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿJ$c64e1ba6-d1b5-4cb3-847a-7a16f39e35d3
+Œ
+java:S1104"PMake prev a static final constant or non-public and provide accessors if needed.(üÛ´J$a79083a0-7eab-40a9-826d-2b230743cfb0
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ùĞ°J$4a2a4082-2c65-4080-8732-ad1297d8f7e0

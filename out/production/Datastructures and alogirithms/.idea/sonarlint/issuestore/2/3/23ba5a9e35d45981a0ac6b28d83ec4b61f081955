@@ -1,0 +1,14 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Ø³æ8£ÐÑÏ¢2J$52e24631-ee0a-4fff-a166-973e0b8eb234
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8‚ç¢Æ¢2J$42cc0dfb-85da-4424-8df5-f92de8aea5e5
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÓ‰‹øÿÿÿÿ8†ç¢Æ¢2J$f93787b5-10cc-438c-beda-40628b81b8fc
+x
+java:S1854"5Remove this useless assignment to local variable "m".(­Ø³æ8±ÐÑÏ¢2J$2d0f56fb-e9f4-4f87-9af0-9c7a6aa43617
+}
+java:S1854"5Remove this useless assignment to local variable "n".(Ù€¤£ýÿÿÿÿ8‡ç¢Æ¢2J$53edbbde-fce7-4f95-bf8b-2ee05307aafa
+n
+java:S1481"&Remove this unused "n" local variable.(Ù€¤£ýÿÿÿÿ8ˆç¢Æ¢2J$b5824e57-7e15-4be8-97c9-0fd169ee155f
+i
+java:S1481"&Remove this unused "m" local variable.(­Ø³æ8³ÐÑÏ¢2J$a3e70270-df8d-4ce0-a4d8-2058e7e9ad33

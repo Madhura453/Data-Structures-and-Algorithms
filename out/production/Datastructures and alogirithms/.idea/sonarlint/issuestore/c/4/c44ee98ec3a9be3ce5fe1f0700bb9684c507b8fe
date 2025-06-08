@@ -1,0 +1,9 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø‘ô™8é…éôâ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ñ¼º8ê…éôâ2
+i
+java:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(Úš¯£8ë…éôâ2
+b
+java:S1226"@Introduce a new variable instead of reusing the parameter "sum".(†ùäØúÿÿÿÿ8ì…éôâ2
+G	java:S106"+Replace this use of System.out by a logger.(ÿş«Ä8ø…éôâ2
