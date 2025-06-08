@@ -1,0 +1,4 @@
+* while drawing recursion tree keep
+1) Left recursion calls always left
+2) right recursion calls always right
+3) If n number of recursion calls keep in their respective places.

@@ -1,26 +1,26 @@
 
 
-java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±J$bd3a6002-fdec-4f61-ade5-d71722058652
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±J$9d0375c8-53fe-4287-82a6-2e406949f915
 g
-java:S1444"+Make this "public static count" field final(˜“ÿ±J$1d0aceea-5825-4c51-8c48-7f47869546b3
+java:S1444"+Make this "public static count" field final(˜“ÿ±J$03fb1759-6d7e-4c3c-bcd8-9db53e7eb367
 q
-java:S1854"5Remove this useless assignment to local variable "a".(ãº’•J$2be4f79e-6147-4966-8839-2f78f5e2fdc9
-w	java:S125"<This block of commented-out lines of code should be removed.(ƒ”×²J$58218d00-3a8d-43cc-92c9-7a6145b615d5
-|	java:S125"<This block of commented-out lines of code should be removed.(¡ÖùğøÿÿÿÿJ$6f85438c-2799-4ed0-bd65-92be4079f336
-|	java:S125"<This block of commented-out lines of code should be removed.(õòÈşşÿÿÿÿJ$c2259ebe-09ff-4ebd-a1e0-4a905dddad88
-|	java:S125"<This block of commented-out lines of code should be removed.(……©ùÿÿÿÿJ$3691105e-7fa0-429f-a3fb-4e814e4d41f6
-v	java:S125"<This block of commented-out lines of code should be removed.(È†pJ$bedf1d04-0473-42fc-bdc8-63aa911d3d6d
-|	java:S125"<This block of commented-out lines of code should be removed.(óÂòôıÿÿÿÿJ$92bf433f-cc51-4a2e-b242-2880142b86d5
-|	java:S125"<This block of commented-out lines of code should be removed.(ó¿ºÛüÿÿÿÿJ$ee5ee8d1-de87-44f7-95c7-77045f10b0dc
+java:S1854"5Remove this useless assignment to local variable "a".(ãº’•J$828c72b2-3a09-4af5-abd7-8a1a293e3d47
+w	java:S125"<This block of commented-out lines of code should be removed.(ƒ”×²J$f65937b4-01cb-429d-8705-269342b1c456
+|	java:S125"<This block of commented-out lines of code should be removed.(¡ÖùğøÿÿÿÿJ$f0562bf1-e3fc-49ed-8a60-8fe616cf1ad0
+|	java:S125"<This block of commented-out lines of code should be removed.(õòÈşşÿÿÿÿJ$e505a354-237b-4d6e-b11d-87b9bfd2b90f
+|	java:S125"<This block of commented-out lines of code should be removed.(……©ùÿÿÿÿJ$cb44a38f-b9b3-4ec3-bdd2-f58d6d365ce9
+v	java:S125"<This block of commented-out lines of code should be removed.(È†pJ$2fe575f7-dbaa-41a6-818e-f7abdb3e8595
+|	java:S125"<This block of commented-out lines of code should be removed.(óÂòôıÿÿÿÿJ$2416c929-e6e7-4c6e-bca5-02dea1335098
+|	java:S125"<This block of commented-out lines of code should be removed.(ó¿ºÛüÿÿÿÿJ$3f984b92-8795-4c63-9aec-3f435de493a3
 b
-java:S1481"&Remove this unused "a" local variable.(ãº’•J$5ba5ca63-c68a-4063-b026-cd55f7954423
-e	java:S106$"+Replace this use of System.out by a logger.(¾˜æJ$5982cd12-b9e2-4adf-b37f-48bc0a4262d1
-w	java:S125"<This block of commented-out lines of code should be removed.(Üò¥J$ef46cbcc-4555-4982-89c2-ce8a96c518e9
-v	java:S125!"<This block of commented-out lines of code should be removed.(±âŠ=J$9cf06b26-6b2c-47f0-92ae-aa72e3d892af
-w	java:S125#"<This block of commented-out lines of code should be removed.(ÉÒ±ãJ$3ba54ddf-ef5b-4d90-8584-2f2c2627fcf7
-l	java:S106˜"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿJ$e4363e56-354e-4b11-89dc-ae2db9139d7f
-g	java:S106£"+Replace this use of System.out by a logger.(†™ñ‹J$1f667606-8533-488d-8b1c-f05de7b4805a
-g	java:S106¬"+Replace this use of System.out by a logger.(†™ñ‹J$952cea83-a5bf-42c7-8711-dc443798a008
-l	java:S106¶"+Replace this use of System.out by a logger.(×“¶äıÿÿÿÿJ$8ff4a2ba-a4e2-49e1-ac09-8127b8df8ab1
-l	java:S106Ã"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿJ$3b4ab9c4-51b2-43fc-b687-fed134405223
-l	java:S106Ë"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿJ$f598767c-9856-41da-86d1-99b84b51dd26
+java:S1481"&Remove this unused "a" local variable.(ãº’•J$8dc04d6b-7ffb-4e3a-ad85-d1ab289b7912
+e	java:S106$"+Replace this use of System.out by a logger.(¾˜æJ$af5430f1-b77b-48bf-901b-f915c7188ef5
+w	java:S125"<This block of commented-out lines of code should be removed.(Üò¥J$0493e9c3-f32e-4e0c-8689-bdec89251c60
+v	java:S125!"<This block of commented-out lines of code should be removed.(±âŠ=J$5222a561-484c-4b4b-a511-b3dd31f7a4ac
+w	java:S125#"<This block of commented-out lines of code should be removed.(ÉÒ±ãJ$a0656b2e-affe-44f1-8858-5a409488bc50
+l	java:S106˜"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿJ$779bfe2e-7841-43d1-befa-7bc15e4fcbed
+g	java:S106£"+Replace this use of System.out by a logger.(†™ñ‹J$25cd7ef1-6942-424b-962b-40d81559db62
+g	java:S106¬"+Replace this use of System.out by a logger.(†™ñ‹J$3c39e55b-bb59-445e-b83f-6e74c3a8c53a
+l	java:S106¶"+Replace this use of System.out by a logger.(×“¶äıÿÿÿÿJ$c0f03b45-f6a4-4b30-a4ee-2eedbc949cb5
+l	java:S106Ã"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿJ$84fcb613-cde4-4afd-9dd1-ab555e2910f8
+l	java:S106Ë"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿJ$817b3f40-f24d-4595-af40-30942b0ad3fd

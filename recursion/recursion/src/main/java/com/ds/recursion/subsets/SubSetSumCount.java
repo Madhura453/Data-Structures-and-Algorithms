@@ -1,24 +1,29 @@
-package com.ds.recursion.practice;
+package com.ds.recursion.subsets;
 
 import java.util.ArrayList;
+import java.util.List;
 
-public class Practice {
+public class SubSetSumCount {
 
     public static void main(String[] args) {
 
-        int[] arr={1,2,4,5,7,8,9};
-        //System.out.println(g);
+        int[] arr={1,2,3};
+
+        int count = countSubsetSum(arr,0,0L,3);
+        System.out.println(count);
     }
 
-    public int perfectSum(int[] nums, int target) {
+    // pattern to count subsequences
+    /*
+    base case
+      satisfies return 1
+      not satisfies return 0
+      l=f();
+      r=f();
+      return l+r;
+     */
 
-        return  countSubsetSum(nums,0,0L,target,new ArrayList<>());
-
-    }
-
-    public static int countSubsetSum(int[] arr, int index, Long sum, int target,
-                                     ArrayList<Integer> a) {
-
+    public static int countSubsetSum(int[] arr, int index, Long sum, long target) {
         if (index > arr.length - 1) {
             if (sum == target) {
                 return 1;
@@ -28,19 +33,19 @@ public class Practice {
 
         int count = 0;
 
-        a.add(arr[index]);
+        count += countSubsetSum(arr, index + 1, sum + arr[index], target);
 
-        count += countSubsetSum(arr, index + 1, sum + arr[index], target,a);
-
-        a.remove(a.size()-1);
-
-        count += countSubsetSum(arr, index + 1, sum, target,a);
+        count += countSubsetSum(arr, index + 1, sum, target);
 
         return count;
     }
 
     public static int countSubsetSum(int[] arr, int index, Long sum, int target) {
 
+        /*
+        sum>=target this condition strictly done if array contains
+        positives only.
+         */
         if (index > arr.length - 1 || (sum>=target)) {
             if (sum == target) {
 
@@ -54,11 +59,8 @@ public class Practice {
 
         count += countSubsetSum(arr, index + 1, sum + arr[index], target);
 
-
         count += countSubsetSum(arr, index + 1, sum, target);
 
         return count;
     }
-
-
 }
